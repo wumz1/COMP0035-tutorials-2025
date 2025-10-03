@@ -8,7 +8,7 @@ This repository contains the activities for the COMP0035 module for the academic
 2. Clone the forked repository to your local machine (e.g. in VS Code or PyCharm).
 3. Each week, update the repository using the 'Sync fork' button in GitHub to check for changes, if it is out of date
    then select the 'Update branch' button.
-
+hello
 ## Activity instructions and code files
 
 The `docs` folder contains the activity instructions for each week.
